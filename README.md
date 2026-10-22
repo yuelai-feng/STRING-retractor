@@ -93,8 +93,15 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
 
 ## Using STRING
 
-1. Clamp the sterilized holders onto the stereotax arm, above the surgical drape.
+> [!NOTE]
+> This section assumes that everything has been appropriately sterilized for the surgery. For how to sterilize STRING, see [2. Sterilize and assemble](#2-sterilize-and-assemble).
+
+1. Clamp the holders onto the stereotax arm, above the surgical drape.
 2. Hook the skin margin, wrap the string around the holder's circular cleat a few times, then secure the string in one of the cleat's slits. A few wraps are usually enough to hold the string in place; if it slips, add more.
+3. Adjust each string to apply only as much tension as needed for adequate exposure. To loosen or tighten, release the string from the slit, unwrap as needed, and re-secure it.
+
+> [!CAUTION]
+> Prolonged or excessive retraction can compromise blood flow to the skin margins. Only retract as long as necessary. Periodically check the skin margins and relax the strings as needed, following your institution's SOPs and your veterinary staff's guidance.
 
 See demo photo below:
 
