@@ -13,7 +13,7 @@ The STRING retractor system consists of:
 ## Table of contents
 - [About the design](#about-the-design)
 - [Building STRING](#building-string)
-- [Using STRING (for surgery)](#using-string-for-surgery)
+- [Using STRING](#using-string)
 - [Contact](#contact)
 
 ## About the design
@@ -59,30 +59,30 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
 
 1. Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces.
 
-2. **Option A: Assemble, then sterilize**
+2. **Option 1A: Assemble, then sterilize**
 
     > This method is simpler and gives a longer sterile shelf life. However, commercial sutures are usually labeled "do not resterilize," and absorbable sutures (e.g., Vicryl) may degrade. Follow your institution's SOPs and consult your veterinary staff before proceeding.
-    
+
    1. Wearing clean gloves, cut the suture to the desired length if needed.
    2. Tie one hook to each strand with a secure knot (e.g. an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
    3. Place the assembled hooks in a gas sterilization pouch.
    4. Gas-sterilize the pouch (this can also be done together with the holders).
 
-3. **Option B: Sterilize, then assemble**
+3. **Option 1B: Sterilize, then assemble**
 
     > This method avoids re-sterilizing the suture, but has a shorter (and vague) sterile shelf life. Follow your institution's SOPs and consult your veterinary staff before proceeding.
 
    1. Gas-sterilize or autoclave the blunt hooks.
    2. Set up a sterile field on a clean table.
    3. Using aseptic technique, open the sterile hooks, sterile sutures, and a pair of sterile scissors onto the field. Optionally, add a sterile needle driver to grip the hooks while tying.
-   4. Place a sterile specimen container next to the field with its lid loosened.
+   4. Place a sterile specimen container next to the field with its lid open.
    5. Don sterile gloves.
    6. Cut the suture to the desired length if needed, then tie one hook to each strand with a secure knot (e.g. an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
-   7. Place the assembled hooks in the specimen container, close the lid tightly, and label it with the prep (and expiration) date.
+   7. Carefully place the assembled hooks in the specimen container, close the lid tightly, and label it with the prep (and expiration) date.
 
 #### Option 2: Assemble *during* surgery
 
-This method is safer than Option 1, but it takes up some time during the surgery while the subject is under anesthesia.
+> This method is safer than Option 1, but it takes up some time during the surgery while the subject is under anesthesia.
 
 1. Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces.
 2. Gas-sterilize or autoclave the blunt hooks.
