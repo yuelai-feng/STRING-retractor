@@ -57,37 +57,39 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
 
 #### Option 1: Assemble *before* surgery
 
-1. Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces.
+**Option 1A: Assemble, then sterilize**
 
-2. **Option 1A: Assemble, then sterilize**
+> This method is simple and gives a longer sterile shelf life. However, commercial sutures are usually labeled "do not resterilize," and absorbable sutures (e.g., Vicryl) may degrade. Follow your institution's SOPs and consult your veterinary staff before proceeding.
 
-    > This method is simpler and gives a longer sterile shelf life. However, commercial sutures are usually labeled "do not resterilize," and absorbable sutures (e.g., Vicryl) may degrade. Follow your institution's SOPs and consult your veterinary staff before proceeding.
+- Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces.
+- Prepare the hooks and suture:
+  1. Wearing clean gloves, cut the suture to the desired length if needed.
+  2. Tie one hook to each strand with a secure knot (e.g. an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
+  3. Place the assembled hooks in a gas sterilization pouch.
+  4. Gas-sterilize the pouch.
 
-   1. Wearing clean gloves, cut the suture to the desired length if needed.
-   2. Tie one hook to each strand with a secure knot (e.g. an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
-   3. Place the assembled hooks in a gas sterilization pouch.
-   4. Gas-sterilize the pouch (this can also be done together with the holders).
+**Option 1B: Sterilize, then assemble**
 
-3. **Option 1B: Sterilize, then assemble**
+> This method avoids re-sterilizing the suture, but has a shorter (and vague) sterile shelf life. Follow your institution's SOPs and consult your veterinary staff before proceeding.
 
-    > This method avoids re-sterilizing the suture, but has a shorter (and vague) sterile shelf life. Follow your institution's SOPs and consult your veterinary staff before proceeding.
-
-   1. Gas-sterilize or autoclave the blunt hooks.
-   2. Set up a sterile field on a clean table.
-   3. Using aseptic technique, open the sterile hooks, sterile sutures, and a pair of sterile scissors onto the field. Optionally, add a sterile needle driver to grip the hooks while tying.
-   4. Place a sterile specimen container next to the field with its lid open.
-   5. Don sterile gloves.
-   6. Cut the suture to the desired length if needed, then tie one hook to each strand with a secure knot (e.g. an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
-   7. Carefully place the assembled hooks in the specimen container, close the lid tightly, and label it with the prep (and expiration) date.
+- Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces.
+- Prepare the hooks and suture:
+  1. Gas-sterilize or autoclave the blunt hooks.
+  2. Set up a sterile field on a clean table.
+  3. Using aseptic technique, open the sterile hooks, sterile sutures, and a pair of sterile scissors onto the field. Optionally, add a sterile needle driver to grip the hooks while tying.
+  4. Place a sterile specimen container next to the field with its lid open.
+  5. Don sterile gloves.
+  6. Cut the suture to the desired length if needed, then tie one hook to each strand with a secure knot (e.g. an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
+  7. Carefully place the assembled hooks in the specimen container, close the lid tightly, and label it with the prep (and expiration) date.
 
 #### Option 2: Assemble *during* surgery
 
 > This method is safer than Option 1, but it takes up some time during the surgery while the subject is under anesthesia.
 
-1. Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces.
-2. Gas-sterilize or autoclave the blunt hooks.
-3. Sutures should already come in sterile packs - just bring them to the surgery.
-4. During surgery, the scrubbed surgeon assembles the hooks and suture. Cut the suture to the desired length if needed, then tie one hook to each strand with a secure knot (e.g., an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
+- Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces.
+- Gas-sterilize or autoclave the blunt hooks.
+- Sutures should already come in sterile packs - just bring them to the surgery.
+- During surgery, the scrubbed surgeon assembles the hooks and suture. Cut the suture to the desired length if needed, then tie one hook to each strand with a secure knot (e.g., an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
 
 ## Using STRING
 
