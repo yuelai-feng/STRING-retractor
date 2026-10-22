@@ -46,7 +46,7 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
 ### 1. Prepare the holders and hooks
 
 - Thread the hole in holder P1 using the M5 tap. The M5 thumb screws should be able to screw in nicely.
-- Using the Dremel, grind off the sharp tip and barb on the fishing hooks and smoothen the tip. Make as many hooks as you may need.
+- Using the Dremel, grind off the sharp tip and barb on the fishing hooks and smooth the tip. Make as many hooks as you may need.
 
 *Example photo of the blunted hooks: COMING SOON*
 
@@ -81,6 +81,7 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
   5. Don sterile gloves.
   6. Cut the suture to the desired length if needed, then tie one hook to each strand with a secure knot (e.g. an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
   7. Carefully place the assembled hooks inside the specimen container, close the lid tightly, and label it with the prep (and expiration) date.
+  8. During surgery, open the container and have the scrubbed surgeon retrieve the hooks without touching the rim or outer surface.
 
 #### Option 2: Assemble *during* surgery
 
