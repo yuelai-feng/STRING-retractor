@@ -57,7 +57,7 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
 
 #### Option 1: Assemble *before* surgery
 
-**Option 1A: Assemble, then sterilize**
+##### Option 1A: Assemble, then sterilize
 
 > This method is simple and gives a longer sterile shelf life. However, commercial sutures are usually labeled "do not resterilize," and absorbable sutures (e.g., Vicryl) may degrade.
 
@@ -68,7 +68,7 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
   3. Place the assembled hooks in a gas sterilization pouch.
   4. Gas-sterilize the pouch.
 
-**Option 1B: Sterilize, then assemble**
+##### Option 1B: Sterilize, then assemble
 
 > This method avoids re-sterilizing the suture, but has a shorter sterile shelf life.
 
