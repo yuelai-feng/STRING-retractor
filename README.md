@@ -32,6 +32,7 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
 | **Hooks & Strings** (semi-consumable) | Fishing hooks | Varies | Blunted to make the skin hooks. Stainless steel, with a gap of ~5-8 mm. [Example product](https://www.amazon.com/dp/B0FR7QF42M) |
 | | Suture | Varies | To make the strings. Braided (e.g., silk or Vicryl), size from 3-0 to 2, length ~18 in; longer suture can be cut to length. No needle needed. Example product: *TBD* |
 | **Tools** | M5 tap | 1 | For threading the screw hole in the 3D-printed holder. |
+| | Dremel with cutting wheel | 1 | For blunting the fishing hooks. |
 
 > [!NOTE]
 > **3D Printing Instructions:**
@@ -39,22 +40,63 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
 > - **Resolution:** High resolution isn't necessary; 0.05 mm works well.
 > - **Supports:** Avoid putting too much support on the circular part of the holder. The small slits may not print cleanly otherwise.
 
-### 1. Prepare and assemble the parts
+> [!NOTE]
+> To sterilize the parts for surgery use, you will also need various surgical and sterilization supplies (e.g. sterile gloves, sterilization pouches, gas sterilizer). These are not listed above. See [2. Sterilize and assemble](#2-sterilize-and-assemble) for details.
 
-1. Tap the holder P1 pieces using the M5 tap. Test with the M5 thumb screw
-2. 
+### 1. Prepare the holders and hooks
+
+- Thread the hole in holder P1 using the M5 tap. The M5 thumb screws should be able to screw in nicely.
+- Blunt and smooth the sharp tip of the fishing hooks using the Dremel. Make as many hook as you may need.
+
+*Example photo of the blunted hooks: COMING SOON*
 
 ### 2. Sterilize and assemble
 
-1. Gas-sterilize the holders.
-2. 
+>[!CAUTION]
+> Follow your institution's SOPs and consult your veterinary staff on which method is the most appropriate.
 
-## Using STRING (for surgery)
+#### Option 1: Assemble *before* surgery
 
-*work in progress*
+1. Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces.
 
-0. Before the surgery, 
-1. 
+2. **Option A: Assemble, then sterilize**
+
+    > This method is simpler and gives a longer sterile shelf life. However, commercial sutures are usually labeled "do not resterilize," and absorbable sutures (e.g., Vicryl) may degrade. Follow your institution's SOPs and consult your veterinary staff before proceeding.
+    
+   1. Wearing clean gloves, cut the suture to the desired length if needed.
+   2. Tie one hook to each strand with a secure knot (e.g. an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
+   3. Place the assembled hooks in a gas sterilization pouch.
+   4. Gas-sterilize the pouch (this can also be done together with the holders).
+
+3. **Option B: Sterilize, then assemble**
+
+    > This method avoids re-sterilizing the suture, but has a shorter (and vague) sterile shelf life. Follow your institution's SOPs and consult your veterinary staff before proceeding.
+
+   1. Gas-sterilize or autoclave the blunt hooks.
+   2. Set up a sterile field on a clean table.
+   3. Using aseptic technique, open the sterile hooks, sterile sutures, and a pair of sterile scissors onto the field. Optionally, add a sterile needle driver to grip the hooks while tying.
+   4. Place a sterile specimen container next to the field with its lid loosened.
+   5. Don sterile gloves.
+   6. Cut the suture to the desired length if needed, then tie one hook to each strand with a secure knot (e.g. an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
+   7. Place the assembled hooks in the specimen container, close the lid tightly, and label it with the prep (and expiration) date.
+
+#### Option 2: Assemble *during* surgery
+
+This method is safer than Option 1, but it takes up some time during the surgery while the subject is under anesthesia.
+
+1. Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces.
+2. Gas-sterilize or autoclave the blunt hooks.
+3. Sutures should already come in sterile packs - just bring them to the surgery.
+4. During surgery, the scrubbed surgeon assembles the hooks and suture. Cut the suture to the desired length if needed, then tie one hook to each strand with a secure knot (e.g., an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
+
+## Using STRING
+
+1. Clamp the sterilized holders onto the stereotax arm, above the surgical drape.
+2. Hook the skin margin, wrap the string around the holder's circular cleat a few times, then secure the string in one of the cleat's slits. A few wraps are usually enough to hold the string in place; if it slips, add more.
+
+See demo photo below:
+
+![STRING demo](./Images/STRING_demo.jpeg)
 
 ## Contact
 
