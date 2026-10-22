@@ -6,7 +6,7 @@ The STRING retractor system consists of:
 
 * a blunt skin hook, which hooks onto the skin margin;
 * a thin string (suture) tied to the hook; and
-* a 2-piece holder, clamped onto the stereotax arm (over the surgical drape) and holds the string in place
+* a 2-piece holder, which clamps onto the stereotax arm (over the surgical drape) and holds the string in place.
 
 ![STRING schematic](./Images/STRING.jpeg)
 
@@ -46,20 +46,20 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
 ### 1. Prepare the holders and hooks
 
 - Thread the hole in holder P1 using the M5 tap. The M5 thumb screws should be able to screw in nicely.
-- Blunt and smooth the sharp tip of the fishing hooks using the Dremel. Make as many hook as you may need.
+- Using the Dremel, grind off the sharp tip and barb on the fishing hooks and smoothen the tip. Make as many hooks as you may need.
 
 *Example photo of the blunted hooks: COMING SOON*
 
 ### 2. Sterilize and assemble
 
->[!CAUTION]
+> [!CAUTION]
 > Follow your institution's SOPs and consult your veterinary staff on which method is the most appropriate.
 
 #### Option 1: Assemble *before* surgery
 
 **Option 1A: Assemble, then sterilize**
 
-> This method is simple and gives a longer sterile shelf life. However, commercial sutures are usually labeled "do not resterilize," and absorbable sutures (e.g., Vicryl) may degrade. Follow your institution's SOPs and consult your veterinary staff before proceeding.
+> This method is simple and gives a longer sterile shelf life. However, commercial sutures are usually labeled "do not resterilize," and absorbable sutures (e.g., Vicryl) may degrade.
 
 - Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces.
 - Prepare the hooks and suture:
@@ -70,17 +70,17 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
 
 **Option 1B: Sterilize, then assemble**
 
-> This method avoids re-sterilizing the suture, but has a shorter (and vague) sterile shelf life. Follow your institution's SOPs and consult your veterinary staff before proceeding.
+> This method avoids re-sterilizing the suture, but has a shorter sterile shelf life.
 
 - Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces.
 - Prepare the hooks and suture:
   1. Gas-sterilize or autoclave the blunt hooks.
   2. Set up a sterile field on a clean table.
   3. Using aseptic technique, open the sterile hooks, sterile sutures, and a pair of sterile scissors onto the field. Optionally, add a sterile needle driver to grip the hooks while tying.
-  4. Place a sterile specimen container next to the field with its lid open.
+  4. Place a sterile specimen container next to the field with its lid loosened. Note that only the inside of the specimen container is sterile.
   5. Don sterile gloves.
   6. Cut the suture to the desired length if needed, then tie one hook to each strand with a secure knot (e.g. an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
-  7. Carefully place the assembled hooks in the specimen container, close the lid tightly, and label it with the prep (and expiration) date.
+  7. Carefully place the assembled hooks inside the specimen container, close the lid tightly, and label it with the prep (and expiration) date.
 
 #### Option 2: Assemble *during* surgery
 
@@ -88,7 +88,7 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
 
 - Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces.
 - Gas-sterilize or autoclave the blunt hooks.
-- Sutures should already come in sterile packs - just bring them to the surgery.
+- Sutures should already come in sterile packs. Just bring them to the surgery.
 - During surgery, the scrubbed surgeon assembles the hooks and suture. Cut the suture to the desired length if needed, then tie one hook to each strand with a secure knot (e.g., an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
 
 ## Using STRING
