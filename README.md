@@ -30,7 +30,7 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
 | | Holder P2 | 4 | Custom part; STL and STEP files are in this repository. See the printing instructions below. |
 | | Thumb screw | 4 | Clamps the holder onto the stereotax arm. M5 × ~10 mm. [Example product](https://www.mcmaster.com/92625A309/) |
 | **Hooks & Strings** (semi-consumable) | Fishing hooks | Varies | Blunted to make the skin hooks. Stainless steel, with a gap of ~5-8 mm. [Example product](https://www.amazon.com/dp/B0FR7QF42M) |
-| | Suture | Varies | To make the strings. Braided (e.g., silk or Vicryl), size from 3-0 to 2, length ~18 in; longer suture can be cut to length. No needle needed. Example product: *TBD* |
+| | Suture | Varies | To make the strings. Braided (e.g. silk, Vicryl), size from 3-0 to 2, length ~18 in; longer suture can be cut to length. No needle needed. |
 | **Tools** | M5 tap | 1 | For threading the screw hole in the 3D-printed holder. |
 | | Dremel with cutting wheel | 1 | For blunting the fishing hooks. |
 
