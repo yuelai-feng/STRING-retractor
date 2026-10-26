@@ -32,7 +32,7 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
 | **Hooks & Strings** (semi-consumable) | Fishing hooks | Varies | Blunted to make the skin hooks. Stainless steel, with a gap of ~5-8 mm. [Example product](https://www.amazon.com/dp/B0FR7QF42M) |
 | | Suture | Varies | To make the strings. Braided (e.g. silk, Vicryl), size from 3-0 to 2, length ~18 in; longer suture can be cut to length. No needle needed. |
 | **Tools** | M5 tap | 1 | For threading the screw hole in the 3D-printed holder. |
-| | Dremel with cutting wheel | 1 | For blunting the fishing hooks. |
+| | Dremel with diamond cutting wheel | 1 | For blunting the fishing hooks. |
 
 > [!NOTE]
 > **3D Printing Instructions:**
@@ -46,9 +46,9 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
 ### 1. Prepare the holders and hooks
 
 - Thread the hole in holder P1 using the M5 tap. The M5 thumb screws should be able to screw in nicely.
-- Using the Dremel, grind off the sharp tip and barb on the fishing hooks and smooth the tip. Make as many hooks as you may need.
+- Using the Dremel, grind off the sharp tip and barb on the fishing hooks and smooth the tip. The photo below shows a blunt hook (left) and the original fishing hook (right). Make as many hooks as you may need.
 
-*Example photo of the blunted hooks: COMING SOON*
+  ![Blunted (left) vs. sharp (right) fishing hook](./Images/blunt_hook.jpeg)
 
 ### 2. Sterilize and assemble
 
