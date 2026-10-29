@@ -30,13 +30,13 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
 | | Holder P2 | 4 | Custom part; STL and STEP files are in this repository. See the printing instructions below. |
 | | Thumb screw | 4 | Clamps the holder onto the stereotax arm. M5 × ~10 mm. [Example product](https://www.mcmaster.com/92625A309/) |
 | **Hooks & Strings** (semi-consumable) | Fishing hooks | Varies | Blunted to make the skin hooks. Stainless steel, with a gap of ~5-8 mm. [Example product](https://www.amazon.com/dp/B0FR7QF42M) |
-| | Suture | Varies | To make the strings. Braided (e.g. silk, Vicryl), size from 3-0 to 2, length ~18 in; longer suture can be cut to length. No needle needed. |
+| | Suture | Varies | To make the strings. Braided (e.g. silk); size from 3-0 to 2; length ~18 in (longer suture can be cut to length); no needle needed. Material and sterility requirements depend on how you assemble/sterilize the parts — see [2. Sterilize and assemble](#2-sterilize-and-assemble). |
 | **Tools** | M5 tap | 1 | For threading the screw hole in the 3D-printed holder. |
 | | Dremel with diamond cutting wheel | 1 | For blunting the fishing hooks. |
 
-> [!NOTE]
+> [!TIP]
 > **3D Printing Instructions:**
-> - **Material:** Use a tough material (e.g., Formlabs Tough 2000) so the holder doesn't snap under tension.
+> - **Material:** Use a tough material (e.g. Formlabs Tough 2000) so the holder doesn't snap under tension.
 > - **Resolution:** High resolution isn't necessary; 0.05 mm works well.
 > - **Supports:** Avoid putting too much support on the circular part of the holder. The small slits may not print cleanly otherwise.
 
@@ -55,51 +55,33 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
 > [!CAUTION]
 > Follow your institution's SOPs and consult your veterinary staff on which method is the most appropriate.
 
-#### Option 1: Assemble *before* surgery
+#### Option 1: Assemble *before* surgery *(recommended)*
 
-##### Option 1A: Assemble, then sterilize
-
-> This method is simple and gives a longer sterile shelf life. However, commercial sutures are usually labeled "do not resterilize," and absorbable sutures (e.g., Vicryl) may degrade.
+For this method, you do not need sterile suture, but **make sure the suture material is compatible with your sterilization method**.
 
 - Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces.
 - Prepare the hooks and suture:
   1. Wearing clean gloves, cut the suture to the desired length if needed.
   2. Tie one hook to each strand with a secure knot (e.g. an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
-  3. Place the assembled hooks in a gas sterilization pouch.
-  4. Gas-sterilize the pouch.
-
-##### Option 1B: Sterilize, then assemble
-
-> This method avoids re-sterilizing the suture, but has a shorter sterile shelf life.
-
-- Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces.
-- Prepare the hooks and suture:
-  1. Gas-sterilize or autoclave the blunt hooks.
-  2. Set up a sterile field on a clean table.
-  3. Using aseptic technique, open the sterile hooks, sterile sutures, and a pair of sterile scissors onto the field. Optionally, add a sterile needle driver to grip the hooks while tying.
-  4. Place a sterile specimen container next to the field with its lid loosened. Note that only the inside of the specimen container is sterile.
-  5. Don sterile gloves.
-  6. Cut the suture to the desired length if needed, then tie one hook to each strand with a secure knot (e.g. an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
-  7. Carefully place the assembled hooks inside the specimen container, close the lid tightly, and label it with the prep (and expiration) date.
-  8. During surgery, open the container and have the scrubbed surgeon retrieve the hooks without touching the rim or outer surface.
+  3. Place the assembled hooks in a sterilization pouch, and gas-sterilize. You may autoclave instead if your suture and hook materials are compatible.
 
 #### Option 2: Assemble *during* surgery
 
-> This method is safer than Option 1, but it takes up some time during the surgery while the subject is under anesthesia.
+This method takes up more time during the surgery compared to Option 1. For this method, **you must use sterile suture**.
 
 - Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces.
 - Gas-sterilize or autoclave the blunt hooks.
-- Sutures should already come in sterile packs. Just bring them to the surgery.
-- During surgery, the scrubbed surgeon assembles the hooks and suture. Cut the suture to the desired length if needed, then tie one hook to each strand with a secure knot (e.g., an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
+- Get sterile suture.
+- During surgery, the scrubbed surgeon assembles the hooks and suture: cut the suture to the desired length if needed, then tie one hook to each strand with a secure knot (e.g. an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
 
 ## Using STRING
 
-> [!NOTE]
 > This section assumes that everything has been appropriately sterilized for the surgery. For how to sterilize STRING, see [2. Sterilize and assemble](#2-sterilize-and-assemble).
 
-1. Clamp the holders onto the stereotax arm, above the surgical drape.
-2. Hook the skin margin, wrap the string around the holder's circular cleat a few times, then secure the string in one of the cleat's slits. A few wraps are usually enough to hold the string in place; if it slips, add more.
-3. Adjust each string to apply only as much tension as needed for adequate exposure. To loosen or tighten, release the string from the slit, unwrap as needed, and re-secure it.
+1. Unpack all the retractor components (holders, hooks, and string) using aseptic technique.
+2. Clamp the holders onto the stereotax arm, above the surgical drape.
+3. Hook the skin margin, wrap the string around the holder's circular cleat a few times, then secure the string in one of the cleat's slits. A few wraps are usually enough to hold the string in place; if it slips, add more.
+4. Adjust each string to apply only as much tension as needed for adequate exposure. To loosen or tighten, release the string from the slit, unwrap as needed, and re-secure it.
 
 > [!CAUTION]
 > Prolonged or excessive retraction can compromise blood flow to the skin margins. Only retract as long as necessary. Periodically check the skin margins and relax the strings as needed, following your institution's SOPs and your veterinary staff's guidance.
