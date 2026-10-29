@@ -26,22 +26,20 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
 
 | | **Name** | **Qty** | **Purpose & Specifications** |
 | --- | --- | --- | --- |
-| **Holders** (4 sets) | Holder P1 | 4 | Custom part; STL and STEP files are in this repository. See the printing instructions below. |
-| | Holder P2 | 4 | Custom part; STL and STEP files are in this repository. See the printing instructions below. |
+| **Holders** (4 sets) | Holder P1 | 4 | Custom part; STL and STEP files are in this repository. See 3D printing instructions below. |
+| | Holder P2 | 4 | Custom part; STL and STEP files are in this repository. See 3D printing instructions below. |
 | | Thumb screw | 4 | Clamps the holder onto the stereotax arm. M5 × ~10 mm. [Example product](https://www.mcmaster.com/92625A309/) |
-| **Hooks & Strings** (semi-consumable) | Fishing hooks | Varies | Blunted to make the skin hooks. Stainless steel, with a gap of ~5-8 mm. [Example product](https://www.amazon.com/dp/B0FR7QF42M) |
-| | Suture | Varies | To make the strings. Braided (e.g. silk); size from 3-0 to 2; length ~18 in (longer suture can be cut to length); no needle needed. Material and sterility requirements depend on how you assemble/sterilize the parts — see [2. Sterilize and assemble](#2-sterilize-and-assemble). |
-| **Tools** | M5 tap | 1 | For threading the screw hole in the 3D-printed holder. |
+| **Hooks & Strings** | Fishing hooks | As needed | Blunted to make the skin hooks. Stainless steel, with a gap of ~5-8 mm. [Example product](https://www.amazon.com/dp/B0FR7QF42M) |
+| | Suture | As needed | To make the strings. Braided (e.g. silk); size from 3-0 to 2; length ~18 in (longer suture can be cut to length); no needle needed. Material and sterility requirements depend on how you assemble/sterilize the parts — see [2. Assemble and sterilize](#2-assemble-and-sterilize). |
+| **Assembly & Sterilization** | M5 tap | 1 | For threading the screw hole in the 3D-printed holder. |
 | | Dremel with diamond cutting wheel | 1 | For blunting the fishing hooks. |
+| | Sterilization supplies & equipment | As needed | For sterilizing the parts for surgery use (e.g. sterilization pouches, gas sterilizer, autoclave). See [2. Assemble and sterilize](#2-assemble-and-sterilize) for details. |
 
 > [!TIP]
 > **3D Printing Instructions:**
 > - **Material:** Use a tough material (e.g. Formlabs Tough 2000) so the holder doesn't snap under tension.
 > - **Resolution:** High resolution isn't necessary; 0.05 mm works well.
 > - **Supports:** Avoid putting too much support on the circular part of the holder. The small slits may not print cleanly otherwise.
-
-> [!NOTE]
-> To sterilize the parts for surgery use, you will also need various surgical and sterilization supplies (e.g. sterile gloves, sterilization pouches, gas sterilizer). These are not listed above. See [2. Sterilize and assemble](#2-sterilize-and-assemble) for details.
 
 ### 1. Prepare the holders and hooks
 
@@ -50,7 +48,7 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
 
   ![Blunted (left) vs. sharp (right) fishing hook](./Images/blunt_hook.jpeg)
 
-### 2. Sterilize and assemble
+### 2. Assemble and sterilize
 
 > [!CAUTION]
 > Follow your institution's SOPs and consult your veterinary staff on which method is the most appropriate.
@@ -59,7 +57,7 @@ STRING is inspired by the [Lone Star™ Retractor System](https://www.coopersurg
 
 For this method, you do not need sterile suture, but **make sure the suture material is compatible with your sterilization method**.
 
-- Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces.
+- Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces. Note that most resins cannot be autoclaved.
 - Prepare the hooks and suture:
   1. Wearing clean gloves, cut the suture to the desired length if needed.
   2. Tie one hook to each strand with a secure knot (e.g. an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
@@ -69,14 +67,14 @@ For this method, you do not need sterile suture, but **make sure the suture mate
 
 This method takes up more time during the surgery compared to Option 1. For this method, **you must use sterile suture**.
 
-- Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces.
+- Gas-sterilize the holders (P1, P2, and thumb screws). Pack the parts loosely assembled in the sterilization pouch so the gas can reach all surfaces. Note that most resins cannot be autoclaved.
 - Gas-sterilize or autoclave the blunt hooks.
 - Get sterile suture.
 - During surgery, the scrubbed surgeon assembles the hooks and suture: cut the suture to the desired length if needed, then tie one hook to each strand with a secure knot (e.g. an [improved clinch knot](https://www.animatedknots.com/improved-clinch-knot)).
 
 ## Using STRING
 
-> This section assumes that everything has been appropriately sterilized for the surgery. For how to sterilize STRING, see [2. Sterilize and assemble](#2-sterilize-and-assemble).
+> This section assumes that everything has been appropriately sterilized for the surgery. For how to sterilize STRING, see [2. Assemble and sterilize](#2-assemble-and-sterilize).
 
 1. Unpack all the retractor components (holders, hooks, and string) using aseptic technique.
 2. Clamp the holders onto the stereotax arm, above the surgical drape.
