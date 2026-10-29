@@ -88,6 +88,10 @@ See demo photo below:
 
 ![STRING demo](./Images/STRING_demo.jpeg)
 
+## Future Directions
+
+- **CNC-friendly holder design:** Adapt the holder CAD models for CNC machining so the holders can be made from metal (e.g. stainless steel or aluminum). Metal holders would be sturdier, more durable for long-term use, and autoclavable.
+
 ## Contact
 
 For inquiries and suggestions, feel free to contact Yuelai Feng at yuelai.f@outlook.com.
